@@ -1,0 +1,11 @@
+*.ovdrjm
+*.ovdrjm.bak
+*.ovdrm
+*.uasset
+*.umap
+.overdare-backups/
+_backup_*/
+_live_*.lua
+Play.log
+UGCLocalAssetTable.json
+__pycache__/
